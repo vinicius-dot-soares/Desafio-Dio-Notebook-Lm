@@ -633,16 +633,16 @@ O notebook reuniu mais de 40 fontes durante o processo de pesquisa.
 Para a apresentação final do projeto, foram selecionadas quatro fontes principais:
 
 1. **Optimizing LLM Accuracy | OpenAI API**
-   → [Inserir link]
+   → https://developers.openai.com/api/docs/guides/optimizing-llm-accuracy
 
 2. **Advanced Prompt Engineering Techniques: Examples & Best Practices**
-   → [Inserir link]
+   → https://www.patronus.ai/llm-testing/advanced-prompt-engineering-techniques?utm_source=chatgpt.com
 
 3. **AI MVP Development: Foundation Model APIs, RAG vs Fine-Tuning, and Cost Benchmarking**
-   → [Inserir link]
+   → https://teamvoy.com/blog/ai-mvp-development/?utm_source=chatgpt.com
 
 4. **Building Production RAG: Architecture, Chunking, Evaluation & Monitoring (2026 Guide)**
-   → [Inserir link]
+   → https://www.premai.io/blog/building-production-rag-architecture-chunking-evaluation-monitoring-2026-guide/?utm_source=chatgpt.com
 
 ---
 
